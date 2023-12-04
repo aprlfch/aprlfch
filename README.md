@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fachrul Dwi Aprilian</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">A passionate Fullstack Developer from Indonesia</h3>
 
 - 📫 How to reach me **aprilianfachrul@gmail.com**
 
